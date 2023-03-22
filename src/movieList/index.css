@@ -1,0 +1,29 @@
+.link {
+  text-decoration: none;
+  color: #000000;
+  height: 300px;
+  margin: 5px;
+}
+
+.list {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+  }
+  
+  .poster-image {
+    width: 150px;
+    height: 200px;
+  }
+  
+  .movie-name {
+    color: #ffffff;
+    width: 200px;
+    flex-wrap: wrap;
+    text-align: center;
+  }
+  
+ 
+  
